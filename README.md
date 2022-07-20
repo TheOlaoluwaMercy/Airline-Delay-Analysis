@@ -51,7 +51,7 @@ The aim of this project is to tell a story about flight delays using a flight de
   > Data Analysis: Different factors that can influence flight delay were compared based on their %delayed flights i.e the proportion of delayed flight as opposed to using the number of delayed flights.
 
  ## Data Visualizations
-  The report is a 4 pages report. Though only one report is visible, others can be accessed through drill through functionality applied to the % delay by Airlines and % Delay by Flight Route Visuals
+  The report is a 4 pages report. Though only one report is visible, *others can be accessed through drill through functionality applied to the % delay by Airlines and % Delay by Flight Route Visuals*
 ## Insights
 - Over 240,000 flights which accounts for 44.5% of the flights were delayed.
 ### Airlines
