@@ -52,7 +52,7 @@ The aim of this project is to tell a story about flight delays using a flight de
 ### Flight Routes
 - Flights from U.S.A to Guam and vise versa had the highest percentage of delayed flights. This can be because only one airline(Continental Airlines) flies this route
 - Flights from Virgin Islands to Puerto Rico and vice versa had the least % delayed flights with flights being delayed on sundays only
-- ![Screenshot (222)](https://user-images.githubusercontent.com/107176991/180045881-3fdd4bc9-cbaf-40b0-995b-41cc0e374684.png)
+![Screenshot (224))](https://user-images.githubusercontent.com/107176991/180070071-6b7af9c2-dff4-4c19-a6e0-a45c80088851.png)
 
 ### Time
 - Total  flights is directly proportional to the delayed flights for most routes.
