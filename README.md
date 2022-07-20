@@ -35,6 +35,7 @@ The aim of this project is to tell a story about flight delays using a flight de
  The different tables were connected.
  ![Screenshot (176)](https://user-images.githubusercontent.com/107176991/180039797-fcc1a994-4119-4a3a-90d1-2d23703636dc.png)
  Several DAX measures and calculated columns were created e.g measures for total flights, total delayed flights, %delayed flights, etc.
+ Dax functions(Related,switch, and concatenate operator(&) ) were used in creating columns that returned the Flight route/Journey between the Origin Airport and Destination Airport at the level of country,state and    municipality. 
    ![Screenshot (221)](https://user-images.githubusercontent.com/107176991/180040401-41b69141-b4d4-4333-a35e-d4ff2927e52f.png)
 
  ## Data Visualizations
