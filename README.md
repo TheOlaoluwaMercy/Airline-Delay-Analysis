@@ -26,15 +26,25 @@ The aim of this project is to tell a story about flight delays using a flight de
  ![Screenshot (211)](https://user-images.githubusercontent.com/107176991/180042274-eb22d086-d10c-44a9-b151-8e12d739d0d8.png)
 ## Insights
 - Over 240,000 flights which accounts for 44.5% of the flights were delayed.
+## Airlines
 - Southern Airlines had the highest %flights delayed while Mesa Airlines had the least %flight delayed.
--Wednesdays had the highest % of delayed flights while saturdays had the least
-## Flight Routes
-Flights from U.S.A to Guam and vise versa had the highest percentage of delayed flights. 
-This can be attributed due to the following reasons:
-- Only one airline:Continental Airlines flies this route
-- Flights in this route doesn't run on weekends(Saturdays and a Sundays), this further impacts Friday flights for U.S.A/Guam routes as all Friday flights for this routes were delayed.
-- ![Screenshot (222)](https://user-images.githubusercontent.com/107176991/180045881-3fdd4bc9-cbaf-40b0-995b-41cc0e374684.png)
+- ![Screenshot (225))](https://user-images.githubusercontent.com/107176991/180051035-43870482-ac59-4025-aa94-376a696c1382.png)
 
+## Weekends
+- Wednesdays had the highest % of delayed flights while saturdays had the least
+![Screenshot (224)))](https://user-images.githubusercontent.com/107176991/180051572-00def8be-971b-4e6e-993c-ae28926c889f.png)
+
+## Flight Routes
+- Flights from U.S.A to Guam and vise versa had the highest percentage of delayed flights. This can be because only one airline(Continental Airlines) flies this route
+- Flights from Virgin Islands to Puerto Rico and vice versa had the least % delayed flights with flights being delayed on sundays only
+- ![Screenshot (222)](https://user-images.githubusercontent.com/107176991/180045881-3fdd4bc9-cbaf-40b0-995b-41cc0e374684.png)
+## Time
+- Total  flights id directly proportional to the delayed flights
+- 6;00am  had the highest total flights and delayed flights
+- 11:00-11:30pm had the least total flights and delayed flights
+![Screenshot (226)))](https://user-images.githubusercontent.com/107176991/180051972-0c52ad5d-a868-4a7b-8b55-dd57250bcabe.png)
+
+Interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiMDMxMzNhN2EtNjhiMC00NTZkLWE4NGMtNGM4NGNlODcwOGExIiwidCI6IjNjOWJiNWVjLTU3NmItNDY2NS05N2Y0LTlmNDBmYzQ1YTRjMiJ9&pageName=ReportSectiona99a6715b29aa7ff6508)
 
 
       
