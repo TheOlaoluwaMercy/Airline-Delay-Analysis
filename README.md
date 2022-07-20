@@ -45,7 +45,7 @@ The aim of this project is to tell a story about flight delays using a flight de
 - Southern Airlines had the highest %flights delayed while Mesa Airlines had the least %flight delayed.
 - ![Screenshot (225))](https://user-images.githubusercontent.com/107176991/180051035-43870482-ac59-4025-aa94-376a696c1382.png)
 
-### Weekends
+### Weekdays
 - Wednesdays had the highest % of delayed flights while saturdays had the least
 ![Screenshot (224)))](https://user-images.githubusercontent.com/107176991/180051572-00def8be-971b-4e6e-993c-ae28926c889f.png)
 
