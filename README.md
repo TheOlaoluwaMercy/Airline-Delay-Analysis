@@ -14,9 +14,13 @@ The aim of this project is to tell a story about flight delays using a flight de
  - Power BI
  - Excel
 
-## Tasks
+## Outline
+- Data Sourcing
 - Data transformation with Power Query Editor
 - Data Visualization with Power BI
+- Giving of Insights
+- Reasons for the Insights
+- Recommendations
 
 ## Data Sourcing
  The main dataset; flight delay dataset was gotten from [Kaggle](https://www.kaggle.com/datasets/jimschacko/airlines-dataset-to-predict-a-delay). 
@@ -37,6 +41,8 @@ The aim of this project is to tell a story about flight delays using a flight de
  Several DAX measures and calculated columns were created e.g measures for total flights, total delayed flights, %delayed flights, etc.
  Dax functions(Related,switch, and concatenate operator(&) ) were used in creating columns that returned the Flight route/Journey between the Origin Airport and Destination Airport at the level of country,state and    municipality. 
    ![Screenshot (221)](https://user-images.githubusercontent.com/107176991/180040401-41b69141-b4d4-4333-a35e-d4ff2927e52f.png)
+   
+  > Data Analysis: Different factors that can influence flight delay were compared based on their %delayed flights i.e the proportion of delayed flight as opposed to using the number of delayed flights.
 
  ## Data Visualizations
   The report is a 4 pages report. Though only one report is visible, others can be accessed through drill through functionality applied to the % delay by Airlines and % Delay by Flight Route Visuals
