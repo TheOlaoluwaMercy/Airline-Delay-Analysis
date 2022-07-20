@@ -61,6 +61,11 @@ The aim of this project is to tell a story about flight delays using a flight de
 
 ![Screenshot (226)))](https://user-images.githubusercontent.com/107176991/180051972-0c52ad5d-a868-4a7b-8b55-dd57250bcabe.png)
 
+### Airports
+  Chicago Midway International airport had the highest % of delayed Flights while Texakana Regional Webb Field had the least.
+  ![Screenshot (228)](https://user-images.githubusercontent.com/107176991/180073230-2560b9dd-7bd8-47e1-b0b7-8b97d2264ac6.png)
+
+  
 
 Interact with the report [here](https://app.powerbi.com/view?r=eyJrIjoiMDMxMzNhN2EtNjhiMC00NTZkLWE4NGMtNGM4NGNlODcwOGExIiwidCI6IjNjOWJiNWVjLTU3NmItNDY2NS05N2Y0LTlmNDBmYzQ1YTRjMiJ9&pageName=ReportSectiona99a6715b29aa7ff6508)
 
