@@ -42,6 +42,12 @@ The aim of this project is to tell a story about flight delays using a flight de
  Dax functions(Related,switch, and concatenate operator(&) ) were used in creating columns that returned the Flight route/Journey between the Origin Airport and Destination Airport at the level of country,state and    municipality. 
    ![Screenshot (221)](https://user-images.githubusercontent.com/107176991/180040401-41b69141-b4d4-4333-a35e-d4ff2927e52f.png)
    
+  > Several factors can be cause/be associated with flight delay. E.g 
+  > - Airline
+  > - Airport
+  > - Flight Route/Journey
+  > - Day of the Week
+  > - Time of the day
   > Data Analysis: Different factors that can influence flight delay were compared based on their %delayed flights i.e the proportion of delayed flight as opposed to using the number of delayed flights.
 
  ## Data Visualizations
