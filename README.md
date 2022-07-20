@@ -6,7 +6,7 @@ Flight delay negatively impacts both the passengers and airline companies.
 The aim of this project is to tell a story about flight delays using a flight delay dataset gotten from [Kaggle](https://www.kaggle.com/datasets/jimschacko/airlines-dataset-to-predict-a-delay) 
 
  ## Brief Overview of the Dataset
- THe dataset contained 8 columns and 539,383. 99% of flights in the data were U.S.A domestic flights while others are flights between U.S.A/Guam, U.S.A/Peurto Rico, U.S.A/Virgin Islands and Virgin Islands/ Puerto Rico. These flights were taken by 18 Airlines between 293 airports.
+ THe dataset contained 8 columns and 539,383 rows. 99% of flights in the data were U.S.A domestic flights while others were flights between U.S.A/Guam, U.S.A/Peurto Rico, U.S.A/Virgin Islands and Virgin Islands/ Puerto Rico. These flights were taken by 18 Airlines between 293 airports.
  ![Screenshot (211)](https://user-images.githubusercontent.com/107176991/180042274-eb22d086-d10c-44a9-b151-8e12d739d0d8.png)
  
 ## Tools
@@ -24,7 +24,7 @@ The aim of this project is to tell a story about flight delays using a flight de
 
 ## Data Sourcing
  The main dataset; flight delay dataset was gotten from [Kaggle](https://www.kaggle.com/datasets/jimschacko/airlines-dataset-to-predict-a-delay). 
- Other complementary datasets was also used in this analysis, mainly to make sense of the abbreviations in different columns of the flight delay datasets.
+ Other complementary datasets were also used in this analysis, mainly to make sense of the abbreviations in different columns of the flight delay datasets.
  For example,
  - Airports Data set from [Kaggle](https://www.kaggle.com/datasets/zinovadr/iata-airport-code) to extract the full names of and locations(Country,State,and Municipacity) of the airports in the flight delay dataset.
  - Airlines Dataset from [Kaggle](https://www.kaggle.com/datasets/open-flights/airline-database?resource=download) to extract the full names of the Airlines in the flight delay dataset.
@@ -75,7 +75,7 @@ The aim of this project is to tell a story about flight delays using a flight de
 ![Screenshot (226)))](https://user-images.githubusercontent.com/107176991/180051972-0c52ad5d-a868-4a7b-8b55-dd57250bcabe.png)
 
 ### Airports
-  Chicago Midway International airport had the highest % of delayed Flights while Texakana Regional Webb Field had the least.
+  Chicago Midway International airport had the highest percentage of delayed Flights while Texakana Regional Webb Field had the least.
   ![Screenshot (228)](https://user-images.githubusercontent.com/107176991/180073230-2560b9dd-7bd8-47e1-b0b7-8b97d2264ac6.png)
 
   
