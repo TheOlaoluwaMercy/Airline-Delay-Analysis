@@ -10,7 +10,7 @@ The aim of this project is to tell a story about flight delays using a flight de
 - Data Visualization with Power BI
 ## Data Sourcing
  The main dataset; flight delay dataset was gotten from [Kaggle](https://www.kaggle.com/datasets/jimschacko/airlines-dataset-to-predict-a-delay). 
- Other complementary datasets was also used in this anaalysis, mainly to make sense of the abbreviations in different columns.
+ Other complementary datasets was also used in this analysis, mainly to make sense of the abbreviations in different columns.
  ## Data Cleaning 
  The flight delay dataset was imported into the power query editor from the excel file.
  All its columns was formatted into the right datatypes
@@ -25,7 +25,7 @@ The aim of this project is to tell a story about flight delays using a flight de
  THe dataset contained 8 columns and 539,383. 99% of flights in the data were U.S.A domestic flights while others are flights between U.S.A/Guam, U.S.A/Peurto Rico, U.S.A/Virgin Islands and Virgin Islands/ Puerto Rico. These flights were taken by 18 Airlines between 293 airports.
  ![Screenshot (211)](https://user-images.githubusercontent.com/107176991/180042274-eb22d086-d10c-44a9-b151-8e12d739d0d8.png)
  ## Data Visualizations
-  The report is a 5 paged report. Though only one report is visible, others can be accessed through drill through functionality applied to the % delay by Airlines and % Delay by Flight Route Visuals
+  The report is a 4 paged report. Though only one report is visible, others can be accessed through drill through functionality applied to the % delay by Airlines and % Delay by Flight Route Visuals
 ## Insights
 - Over 240,000 flights which accounts for 44.5% of the flights were delayed.
 ### Airlines
